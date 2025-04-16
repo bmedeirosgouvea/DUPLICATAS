@@ -1,0 +1,6 @@
+INSERT INTO clientes (id, nome, email) VALUES
+(1, 'João Silva', 'joao@email.com'),
+(2, 'Ana Lima', 'ana@email.com'),
+(3, 'João Silva', 'joao@email.com'),
+(4, 'Pedro Souza', 'pedro@email.com'),
+(5, 'Ana Lima', 'ana@email.com');
